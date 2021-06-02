@@ -39,7 +39,7 @@ If not a user SignUp and Then Login.<br>
 10. After you are done Click on Logout and you will land back to UserLogin GUI.
 <br>
 </br>
-*On the Admin Side/Server Side*<br>
+<h5>On the Admin Side/Server Side</h5><br>
 You have similar controls as User's controls.<br>
 Steps for that are:
 1. Run ServerGUI.java<br> 
