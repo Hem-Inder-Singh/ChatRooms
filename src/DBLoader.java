@@ -15,7 +15,7 @@ public class DBLoader
             Class.forName("com.mysql.jdbc.Driver");
             System.out.println("Driver loading done");
             
-            Connection conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/chat_room_java","root","hem2000");
+            Connection conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/chat_room_java","root","system123");
             System.out.println("Connection done");
             
             Statement stmt = conn.createStatement(ResultSet.TYPE_SCROLL_SENSITIVE, ResultSet.CONCUR_UPDATABLE);
