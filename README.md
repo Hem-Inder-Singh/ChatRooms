@@ -3,7 +3,7 @@ A Java GUI based chatting desktop project made with *Swings, AWT, JDBC and MySQL
 <br>
 # Basic Overview 
 This is Client-Server based Chatting Desktop Application made using Java Programming Language. In this project we have Server-side admin controls in which I have created Admin Login and Admin Home from which Admin can manage rooms, add rooms and Change his password etc. It supports the most basic functions of sending text, image messages and also sending document files within a Room members.
-It is made on LocalHost for 
+It is made on LocalHost.
 # What You will Need ?
 - NetBeans 8.2 IDE 
 - JDK 8
