@@ -1,7 +1,7 @@
 # ChatRooms
 A Java GUI based chatting desktop project made with *Swings, AWT, JDBC and MySQL.*
 <br>
-# Basic Overview 
+# Basic Overview :technologist:
 This is Client-Server based Chatting Desktop Application made using Java Programming Language. In this project we have Server-side admin controls in which I have created Admin Login and Admin Home from which Admin can manage rooms, add rooms and Change his password etc. It supports the most basic functions of sending text, image messages and also sending document files within a Room members.
 It is made on LocalHost.
 # What You will Need ?
@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1A8qc0vnjJsD7oS9KSwn1dLzYcUk-ecBu/view?usp=shari
 Step2:<br>
 https://drive.google.com/file/d/1iN0qSu7GJ7ZpYyj1O0ooLmYvyfIgyX6E/view?usp=sharing
 <br></br>
-# Build the Sample:smile:
+# Build the Sample:smile::thumbsup:
 If you download the sample ZIP, be sure to unzip the entire archive.</ol>
 - Start Netbeans and select <b> File > Open > Project.</b><br>
 - <b>Importing Database(Schema+Data)</b>
@@ -26,10 +26,10 @@ MySQL Workbench->Data Import/Restore->Load Folder Contents->SQL-> dumpfiles pres
 - Connect the JDBC driver(JConnector) by including the it's JAR File in the Project<br>
 Expand Project->Libraries->(Right Click)ADD JAR File->include file: mysql-connector-java-5.1.40-bin.jar
 <h2>Working with Images explained</h2><br>
-1. Run ServerGUI.java <br>
+1. Run :running_man: ServerGUI.java <br>
 2. Click on Start Server<br>
-3. Minimize the GUI window.
-4. Run UserLogin.java<br>
+3. Minimize the GUI window.<br>
+4. Run :running_man: UserLogin.java<br>
 5. Put Credentials:- Username and Password and then click on login.<br>
 If not a user SignUp and Then Login.<br>
 6. User Home will open.<br>
@@ -39,7 +39,7 @@ If not a user SignUp and Then Login.<br>
 10. After you are done Click on Logout and you will land back to UserLogin GUI.
 <br>
 </br>
-<h5>On the Admin Side/Server Side</h5><br>
+<h3><i>On the Admin Side/Server Side</i></h3><br>
 You have similar controls as User's controls.<br>
 Steps for that are:
 1. Run ServerGUI.java<br> 
@@ -49,8 +49,9 @@ Steps for that are:
 4.Click on Login and You will see Admin Home page.<br>
 5. And perform any of the required function shown.<br>
 After you are done...:star_struck: <br>
-Don't forget to stop the server from ServerGUI.java opened at back or minimized.
-
+Don't forget to stop the server from ServerGUI.java opened at back or minimized. 
+<br>
+Check Out ScreenShots of the project in Screenshot project folder in src folder 
 
 
 
